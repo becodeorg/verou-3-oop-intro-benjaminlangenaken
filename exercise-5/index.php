@@ -61,6 +61,6 @@ echo $duvel -> getColor().'<br>';
 echo $duvel -> getAlcPercentage().'% - ';
 echo $duvel -> getInfo().'<br><br>';
 
-//TODO: Fix the errors without using getter and setter functions.
-//TODO: Change the price to 3.5 euro and print it also on the screen on a new line.
+// Fix the errors without using getter and setter functions.
+// Change the price to 3.5 euro and print it also on the screen on a new line.
 // Add stuff inside of function...
